@@ -88,8 +88,8 @@ Optimization: Used EarlyStopping and data augmentation for improved performance.
 1️⃣ Clone the Repository
 
   ```bash
-  git clone https://github.com/VaibhavGovindwar/Plant-Disease-Detection-System.git
-  cd Plant-Disease-Detection-System 
+  git clone https://github.com/VaibhavGovindwar/Plant-Disease-Detection.git
+  cd Plant-Disease-Detection
   ```
 
 2️⃣ Install Dependencies
