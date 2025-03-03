@@ -77,6 +77,12 @@ Optimization: Used EarlyStopping and data augmentation for improved performance.
 - Hover effects on buttons for an interactive feel.
 - Fast and accurate results powered by TensorFlow.
 
+## Web page 
+1. Home page![Screenshot 2025-03-01 190107](https://github.com/user-attachments/assets/0592dee4-6ed0-4ab1-ad53-46fc23789339)
+
+2. Result page![Screenshot 2025-03-03 133935](https://github.com/user-attachments/assets/9ea964f5-c973-4147-8ee5-2bb63d853b1a)
+
+
 ## 🔧 Setup & Installation
 
 1️⃣ Clone the Repository
